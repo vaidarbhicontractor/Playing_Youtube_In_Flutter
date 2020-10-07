@@ -2,7 +2,7 @@
 
 This project is for playing video in YouTube through in Flutter coding.
 
-# Reqirements:-
+# Requirements:-
 + Plugins :- [YouTube Player Flutter](https://pub.dev/packages/youtube_player_flutter).
 + Android :- minsdkversion must be at least 17.
 + iOS :- iOS->Runner->Info.plist add [<key>io.flutter.embedded_views_preview</key>] line.
